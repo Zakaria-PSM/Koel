@@ -5,7 +5,7 @@ function inst (){
 	
 #Fast update system before installing tools
 sudo apt update -y
-sudo apt upgrade-y
+sudo apt upgrade -y
 
 #Install sshpass
 sudo dpkg --configure -a
