@@ -1,4 +1,4 @@
-# Koel: A script that to communicate to a remote server and executes tasks anonymously 
+# Koel: A script to communicate to a remote server and executes tasks anonymously 
 
 How to use: 
 Open a terminal on Kali Linux and enter the following command to download the koel bash script 
